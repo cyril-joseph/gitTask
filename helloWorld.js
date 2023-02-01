@@ -1,1 +1,6 @@
-console.log ("Git is Awesome")
+let a=Number(prompt("enter  a value"))
+console.log(a)
+
+
+
+
